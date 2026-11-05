@@ -1,0 +1,6 @@
+kaggle.json
+*.keras
+*.h5
+*.mp4
+dataset/
+.ipynb_checkpoints/
